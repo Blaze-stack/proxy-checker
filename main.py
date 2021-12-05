@@ -140,6 +140,6 @@ while amount > 0:
         print(f"{Fore.WHITE}[ {Fore.RED}- {Fore.WHITE}] {Fore.LIGHTBLACK_EX}Failed connecting to proxy {Fore.WHITE}{proxi}{Fore.LIGHTBLACK_EX} | Removing from list!")
 
 f.close()
-print(f"{Fore.WHITE}[ {Fore.YELLOW}? {Fore.WHITE}] {Fore.LIGHTBLACK_EX}Successfully tested {Fore.WHITE}{fulla} proxies {Fore.LIGHTBLACK_EX}{Fore.WHITE}")
+print(f"{Fore.WHITE}[ {Fore.YELLOW}? {Fore.WHITE}] {Fore.LIGHTBLACK_EX}Successfully tested {Fore.WHITE}{fulla} working proxies {Fore.LIGHTBLACK_EX}{Fore.WHITE}")
 
 input() 
