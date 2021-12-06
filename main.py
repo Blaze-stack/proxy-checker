@@ -8,7 +8,7 @@ from colorama import Fore
 
 os.system("cls")
 
-print(f"{Fore.WHITE}[ {Fore.CYAN}\u00A7 {Fore.WHITE}] {Fore.LIGHTBLACK_EX}proxy checker made by {Fore.WHITE}Blaze{Fore.LIGHTBLACK_EX}, support me via cashapp {Fore.WHITE}$TrentonWaterz{Fore.LIGHTBLACK_EX} | Licensed under {Fore.WHITE}MIT {Fore.LIGHTBLACK_EX}License")
+print(f"{Fore.WHITE}[ {Fore.CYAN}\u00A7 {Fore.WHITE}] {Fore.LIGHTBLACK_EX}proxy checker made by {Fore.WHITE}Blaze{Fore.LIGHTBLACK_EX}, support me via cashapp {Fore.WHITE}$BlazeStackdev{Fore.LIGHTBLACK_EX} | Licensed under {Fore.WHITE}MIT {Fore.LIGHTBLACK_EX}License")
 print(f"{Fore.WHITE}[ {Fore.CYAN}\u00A7 {Fore.WHITE}] {Fore.LIGHTBLACK_EX}my github: {Fore.WHITE}https://github.com/Blaze-stack")
 
 site = input(f"{Fore.WHITE}[ {Fore.YELLOW}> {Fore.WHITE}] {Fore.LIGHTBLACK_EX}what site do you want to test on? [needs to start with https://-http://] {Fore.WHITE}(https://github.com is the defalt){Fore.LIGHTBLACK_EX}: {Fore.WHITE}")
